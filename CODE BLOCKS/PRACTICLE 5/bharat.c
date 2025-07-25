@@ -16,5 +16,6 @@ void main()
     lw=(62.84*women)/100;
     ilw=women-lw;
     printf("\nthe number of illiterate women:%lld",ilw);
+    printf("\nThe Program Is Devloped BY:DHRUV AGHERA_25TCEXT7");
 
 }
